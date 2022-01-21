@@ -1,2 +1,2 @@
 # MVJ2019
-Mökkivarausjärjestelmä, ohjelmistotuotannon projekti 2019
+Mökkivarausjärjestelmä, ohjelmistotuotanto 1 projekti, 2019
